@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Primeiro push realizado com sucesso:D</h1>
+    return <h1>Se você tá lendo isso, me faça um pix "ThekillerGamer@outlook.com.br</h1>
 
 }
 export default Home; 
